@@ -2,7 +2,7 @@
 
 Submitted by: **Damaris Campos**
 
-This web app: **insert description**
+This web app: **This app displays a list of festivals happening in New York City. Each festival card includes details like the festival name, dates, location, and an image. Users can click to learn more about each festival through links provided.**
 
 Time spent: **4** hours spent in total
 
