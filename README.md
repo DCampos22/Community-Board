@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [ ] Did not add additional, just stretch features
 
 ## Video Walkthrough
 
@@ -30,18 +30,16 @@ Here's a walkthrough of implemented required features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I initially struggled with creating the grid because I was considering how to do it using HTML, CSS, and JavaScript. However, using React made the process much easier and cleaner.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [amaris]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
