@@ -39,7 +39,7 @@ I initially struggled with creating the grid because I was considering how to do
 
 ## License
 
-    Copyright [2024] [amaris]
+    Copyright [2024] [Damaris]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
